@@ -162,7 +162,15 @@ SemiGNN может быть адаптирована для offline‑обуче
 
 Данные улучшения не меняют базовую архитектуру модели, но существенно повышают её применимость для реальных AML‑сценариев.
 
+## Sources
+1. Liu et al., "A Semi-supervised Graph Attentive Network for Financial Fraud Detection"  
+https://arxiv.org/abs/2003.01171  — основная модель, выбранная для дипломной работы.
+2. DGFraud-TF2 GitHub Repository  
+https://github.com/safe-graph/DGFraud-TF2  — практическая реализация SemiGNN и связанных алгоритмов.
+3. Kipf & Welling, "Semi-Supervised Classification with Graph Convolutional Networks" 
+https://arxiv.org/abs/1609.02907  — базовый GCN, от которого отталкивается SemiGNN.
+
 **Связанные заметки**
-[[Dual Attention в графовых нейронных сетях]]
-[[Blockchain Dataset Features]]
+[[04 Dual Attention в графовых нейронных сетях]]
+[[09 Универсальный набор признаков для AML‑анализа в разных блокчейнах]]
 [[DGFraud-T2]]

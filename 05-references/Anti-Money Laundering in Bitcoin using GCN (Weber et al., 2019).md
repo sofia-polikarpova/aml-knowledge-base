@@ -68,6 +68,6 @@ GCN используется для учёта структурных завис
 
 **Связанные заметки**
 
-[[Graph Attention Network (GAT)]]
+[[05 Graph Attention Network (GAT)]]
 [[EvolveGCN]]
 [[DGFraud-T2]]

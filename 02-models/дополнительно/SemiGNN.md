@@ -79,7 +79,7 @@ SemiGNN:
 
 **Связанные заметки**
 
-[[Graph Attention Network (GAT)]]
+[[05 Graph Attention Network (GAT)]]
 [[EvolveGCN]]
 [[Сравнение методов для AML‑анализа транзакций|AML_Methods_Comparison]]
 [[Elliptic Data Set]]

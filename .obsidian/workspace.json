@@ -69,16 +69,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-project/README.md",
+                "file": "02-models/04 Dual Attention в графовых нейронных сетях.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "04 Dual Attention в графовых нейронных сетях"
+            }
+          },
+          {
+            "id": "2a3d29b5ad94cca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-project/02 Literature Review — AML in Blockchain with Graph Neural Networks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Literature Review — AML in Blockchain with Graph Neural Networks"
+            }
+          },
+          {
+            "id": "3fd201294789e337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-models/05 Graph Attention Network (GAT).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 Graph Attention Network (GAT)"
+            }
+          },
+          {
+            "id": "e5ea1719c615a7fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-models/03 GNN basic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 GNN basic"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -240,28 +282,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "7455e836f7a234f8",
+  "active": "e5ea1719c615a7fe",
   "lastOpenFiles": [
-    "03-data/Набор признаков для графовой нейросети AML на Ethereum.md",
-    "03-data/Универсальный набор признаков для AML‑анализа в разных блокчейнах.md",
-    "01-project/README.md",
-    "02-models/SemiGNN для задачи AML в блокчейне.md",
-    "02-models/Money Laundering Detection.md",
-    "02-models/Dual Attention в графовых нейронных сетях.md",
-    "03-data/Ethereum (ETH) Data Set.md",
-    "02-models/DGFraud-T2.md",
-    "02-models/DGFraud-T2 algorithms overview.md",
+    "03-data/11 Набор признаков для графовой нейросети AML на Ethereum.md",
+    "02-models/03 GNN basic.md",
+    "02-models/06 Hierarchical Attention Network (HAN).md",
+    "02-models/04 Dual Attention в графовых нейронных сетях.md",
+    "01-project/02 Literature Review — AML in Blockchain with Graph Neural Networks.md",
+    "01-project/01 Project Overview.md",
+    "05-references/Anti-Money Laundering in Bitcoin using GCN (Weber et al., 2019).md",
+    "03-data/10 Ethereum (ETH) Data Set.md",
+    "03-data/09 Универсальный набор признаков для AML‑анализа в разных блокчейнах.md",
+    "02-models/README.md",
+    "02-models/08 DGFraud-T2 algorithms overview.md",
+    "02-models/дополнительно",
+    "02-models/07 SemiGNN для задачи AML в блокчейне.md",
+    "02-models/05 Graph Attention Network (GAT).md",
+    "02-models/дополнительно/Сравнение методов для AML‑анализа транзакций.md",
+    "02-models/дополнительно/SemiGNN.md",
+    "02-models/дополнительно/Money Laundering Detection.md",
+    "02-models/дополнительно/DGFraud-T2.md",
     "aml-knowledge-base/Untitled",
     "Elliptic_AML_GCN_Study_1908_02591.md",
     "SemiGNN_Fraud_Detection.md",
-    "02-models/Сравнение методов для AML‑анализа транзакций.md",
-    "02-models/SemiGNN.md",
     "03-data/Elliptic Data Set.md",
-    "05-references/Anti-Money Laundering in Bitcoin using GCN (Weber et al., 2019).md",
-    "02-models/EvolveGCN.md",
-    "02-models/Graph Attention Network (GAT).md",
+    "02-models/дополнительно/EvolveGCN.md",
     "03-data/README.md",
-    "02-models/README.md",
     "Данные.md",
     "Модели ML.md",
     "Проект.md"

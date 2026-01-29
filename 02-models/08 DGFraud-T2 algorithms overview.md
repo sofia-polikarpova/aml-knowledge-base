@@ -142,6 +142,13 @@
 - архитектурного компромисса;
 - либо адаптации **HAN‑подобных моделей** под сценарий реального времени.
 
+## Sources
+
+1. DGFraud-TF2 Algorithms  
+https://github.com/safe-graph/DGFraud-TF2/tree/main/algorithms  — список реализованных моделей.
+2. SemiGNN implementation  
+https://github.com/safe-graph/DGFraud-TF2/tree/main/algorithms/SemiGNN  — код SemiGNN, анализ применимости к блокчейн-задаче.
+
 **Связанные заметки**
 
 [[SemiGNN]]

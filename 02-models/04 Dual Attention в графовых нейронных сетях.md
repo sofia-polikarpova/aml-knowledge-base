@@ -64,10 +64,17 @@ Dual Attention позволяет:
 - лучше выявлять подозрительные паттерны.
 
 ---
+## Sources
 
+1. Liu et al., SemiGNN (Dual Attention mechanism)  
+https://arxiv.org/abs/2003.01171 — node-level и edge-level attention.
+2. HAN paper  
+https://arxiv.org/abs/1903.07293 — разные типы узлов и их «вес».
+3. Graph Neural Networks: A Review  
+https://arxiv.org/abs/1812.08434 — обзор attention-механизмов в GNN.
 ## Связанные заметки
 
-- [[Graph Attention Network (GAT)]]
+- [[05 Graph Attention Network (GAT)]]
 - [[Hierarchical Attention Network (HAN)]]
 - [[SemiGNN]]
-- [[DGFraud-T2 algorithms overview]]
+- [[08 DGFraud-T2 algorithms overview]]

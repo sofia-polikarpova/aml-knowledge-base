@@ -56,4 +56,4 @@
 
 **Связанные заметки**
 
-[[Graph Attention Network (GAT)]]
+[[05 Graph Attention Network (GAT)]]

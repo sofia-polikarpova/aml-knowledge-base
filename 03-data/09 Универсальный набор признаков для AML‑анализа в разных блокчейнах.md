@@ -126,6 +126,15 @@
 
 Такой подход делает модель более устойчивой и практически применимой в реальных AML‑сценариях.
 
+## Sources
+
+1. Weber et al., "Anti-Money Laundering in Bitcoin"  
+https://arxiv.org/abs/1908.02591 — признаки и подходы к AML в транзакционных графах.
+2. Elliptic Dataset Description  
+https://www.kaggle.com/ellipticco/elliptic-data-set — пример реального AML-датасета.
+3. Chen et al., "EvolveGCN"  
+https://arxiv.org/abs/1902.10191 — temporal graph learning.
+
 **Связанные заметки**
-[[SemiGNN для задачи AML в блокчейне]]
-[[Dual Attention в графовых нейронных сетях]]
+[[07 SemiGNN для задачи AML в блокчейне]]
+[[04 Dual Attention в графовых нейронных сетях]]

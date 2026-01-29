@@ -150,8 +150,17 @@ Ethereum-специфика добавляется постепенно.
 
 Такой подход обеспечивает баланс между сложностью реализации и информативностью модели.
 
+## Sources
+
+1. Ethereum Fraud Detection Dataset  
+https://www.kaggle.com/datasets/vagifa/ethereum-frauddetection-dataset — пример признаков адресов в Ethereum.
+2. Ethereum Yellow Paper 
+https://ethereum.github.io/yellowpaper/paper.pdf — базовая логика аккаунтов и транзакций.
+3. ERC-20 Token Standard 
+https://eips.ethereum.org/EIPS/eip-20 — взаимодействие с ненативными токенами.
+
 **Связанные заметки** 
-[[Универсальный набор признаков для AML‑анализа в разных блокчейнах]]
-[[Ethereum (ETH) Data Set]]
-[[SemiGNN для задачи AML в блокчейне]]
-[[Dual Attention в графовых нейронных сетях]]
+[[09 Универсальный набор признаков для AML‑анализа в разных блокчейнах]]
+[[10 Ethereum (ETH) Data Set]]
+[[07 SemiGNN для задачи AML в блокчейне]]
+[[04 Dual Attention в графовых нейронных сетях]]
