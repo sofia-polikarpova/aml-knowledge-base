@@ -98,4 +98,4 @@ PR-AUC: **0.2950**
 [[03 GNN basic]]
 [[05 Graph Attention Network (GAT)]]
 [[12 Elliptic — GCN Baseline Experiment]]
-[[14 Elliptic  — Сравнение GCN и GAT]]
+[[15 Elliptic  — GCN, GAT, HAN Comparison]]
