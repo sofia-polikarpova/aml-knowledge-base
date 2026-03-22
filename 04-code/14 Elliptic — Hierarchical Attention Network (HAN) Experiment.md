@@ -174,4 +174,4 @@
 [[12 Elliptic — GCN Baseline Experiment]]
 [[13 Elliptic — Graph Attention Network (GAT) Experiment]]
 [[14 Elliptic — Hierarchical Attention Network (HAN) Experiment]]
-[[15 Elliptic  — GCN, GAT, HAN Comparison]]
+[[16 Elliptic  — GCN, GAT, HAN Comparison]]
