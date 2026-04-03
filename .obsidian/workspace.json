@@ -4,137 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f92b1dc90199befd",
+        "id": "13e96a78c3f5bcdc",
         "type": "tabs",
         "children": [
           {
-            "id": "49089cd65a802889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-data/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "8244909c1b62cabb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-data/Elliptic Data Set.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elliptic Data Set"
-            }
-          },
-          {
-            "id": "e8358ae257c6fdf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-models/SemiGNN.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SemiGNN"
-            }
-          },
-          {
-            "id": "9194e040a3483e60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03-data/Ethereum (ETH) Data Set.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ethereum (ETH) Data Set"
-            }
-          },
-          {
-            "id": "7455e836f7a234f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-models/04 Dual Attention в графовых нейронных сетях.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 Dual Attention в графовых нейронных сетях"
-            }
-          },
-          {
-            "id": "2a3d29b5ad94cca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-project/02 Literature Review — AML in Blockchain with Graph Neural Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 Literature Review — AML in Blockchain with Graph Neural Networks"
-            }
-          },
-          {
-            "id": "3fd201294789e337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-models/05 Graph Attention Network (GAT).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05 Graph Attention Network (GAT)"
-            }
-          },
-          {
-            "id": "e5ea1719c615a7fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-models/03 GNN basic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 GNN basic"
-            }
-          },
-          {
-            "id": "b57cd02e25bee935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-code/12 Elliptic — GCN Baseline Experiment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12 Elliptic — GCN Baseline Experiment"
-            }
-          },
-          {
-            "id": "fb2c2e533f2355f3",
+            "id": "649a92196a85bcf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,35 +22,7 @@
             }
           },
           {
-            "id": "8d0587fd65801b55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-code/14 Elliptic — Hierarchical Attention Network (HAN) Experiment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14 Elliptic — Hierarchical Attention Network (HAN) Experiment"
-            }
-          },
-          {
-            "id": "fda300ac9831eb25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-code/14 Elliptic — Hierarchical Attention Network (HAN) Experiment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14 Elliptic — Hierarchical Attention Network (HAN) Experiment"
-            }
-          },
-          {
-            "id": "ac93836857589ab1",
+            "id": "937275b1286a811b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,8 +35,7 @@
               "title": "12 Elliptic — GCN Baseline Experiment"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,21 +197,24 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ac93836857589ab1",
+  "active": "649a92196a85bcf7",
   "lastOpenFiles": [
+    "04-code/12 Elliptic — GCN Baseline Experiment.md",
+    "04-code/13 Elliptic — Graph Attention Network (GAT) Experiment.md",
+    "03-data/README.md",
+    "03-data/Elliptic Data Set.md",
+    "02-models/04 Dual Attention в графовых нейронных сетях.md",
+    "01-project/02 Literature Review — AML in Blockchain with Graph Neural Networks.md",
+    "02-models/05 Graph Attention Network (GAT).md",
+    "02-models/03 GNN basic.md",
+    "04-code/14 Elliptic — Hierarchical Attention Network (HAN) Experiment.md",
     "04-code/16 Elliptic  — GCN, GAT, HAN Comparison.md",
     "04-code/15 Elliptic — SemiGNN experiment (3000-node subgraph).md",
-    "04-code/13 Elliptic — Graph Attention Network (GAT) Experiment.md",
-    "04-code/14 Elliptic — Hierarchical Attention Network (HAN) Experiment.md",
-    "04-code/12 Elliptic — GCN Baseline Experiment.md",
     "04-code/README.md",
     "02-models/06 Hierarchical Attention Network (HAN).md",
     "Untitled",
-    "02-models/04 Dual Attention в графовых нейронных сетях.md",
     "02-models/07 SemiGNN для задачи AML в блокчейне.md",
-    "02-models/03 GNN basic.md",
     "03-data/11 Набор признаков для графовой нейросети AML на Ethereum.md",
-    "01-project/02 Literature Review — AML in Blockchain with Graph Neural Networks.md",
     "01-project/01 Project Overview.md",
     "05-references/Anti-Money Laundering in Bitcoin using GCN (Weber et al., 2019).md",
     "03-data/10 Ethereum (ETH) Data Set.md",
@@ -374,14 +222,11 @@
     "02-models/README.md",
     "02-models/08 DGFraud-T2 algorithms overview.md",
     "02-models/дополнительно",
-    "02-models/05 Graph Attention Network (GAT).md",
     "02-models/дополнительно/Сравнение методов для AML‑анализа транзакций.md",
     "02-models/дополнительно/SemiGNN.md",
     "02-models/дополнительно/Money Laundering Detection.md",
     "02-models/дополнительно/DGFraud-T2.md",
     "aml-knowledge-base/Untitled",
-    "Elliptic_AML_GCN_Study_1908_02591.md",
-    "SemiGNN_Fraud_Detection.md",
-    "03-data/Elliptic Data Set.md"
+    "Elliptic_AML_GCN_Study_1908_02591.md"
   ]
 }
