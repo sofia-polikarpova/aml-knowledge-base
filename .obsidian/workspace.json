@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-code/13 Elliptic — Graph Attention Network (GAT) Experiment.md",
+                "file": "04-code/16 Elliptic  — GCN, GAT, HAN Comparison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 Elliptic — Graph Attention Network (GAT) Experiment"
+              "title": "16 Elliptic  — GCN, GAT, HAN Comparison"
             }
           },
           {
@@ -200,6 +200,9 @@
   "active": "649a92196a85bcf7",
   "lastOpenFiles": [
     "04-code/12 Elliptic — GCN Baseline Experiment.md",
+    "04-code/16 Elliptic  — GCN, GAT, HAN Comparison.md",
+    "04-code/15 Elliptic — SemiGNN experiment (3000-node subgraph).md",
+    "04-code/14 Elliptic — Hierarchical Attention Network (HAN) Experiment.md",
     "04-code/13 Elliptic — Graph Attention Network (GAT) Experiment.md",
     "03-data/README.md",
     "03-data/Elliptic Data Set.md",
@@ -207,9 +210,6 @@
     "01-project/02 Literature Review — AML in Blockchain with Graph Neural Networks.md",
     "02-models/05 Graph Attention Network (GAT).md",
     "02-models/03 GNN basic.md",
-    "04-code/14 Elliptic — Hierarchical Attention Network (HAN) Experiment.md",
-    "04-code/16 Elliptic  — GCN, GAT, HAN Comparison.md",
-    "04-code/15 Elliptic — SemiGNN experiment (3000-node subgraph).md",
     "04-code/README.md",
     "02-models/06 Hierarchical Attention Network (HAN).md",
     "Untitled",
