@@ -107,10 +107,10 @@ Early stopping.
 
 Дополнительно:  
 - PR-AUC: 0.1500  
-- ROC-AUC: 0.5592  
+- ROC-AUC: 0.5593 
 - Threshold: 0.31  
 - Best val PR-AUC: 0.1039  
-- Best val F1: 0.1878
+- Best val F1: 0.1266
 ### Confusion Matrix
 
 Реальные значения:  
