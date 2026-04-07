@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-code/16 Elliptic  — GCN, GAT, HAN Comparison.md",
+                "file": "04-code/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 Elliptic  — GCN, GAT, HAN Comparison"
+              "title": "README"
             }
           }
         ],
@@ -200,9 +200,9 @@
   },
   "active": "425d82cfc3b26ef5",
   "lastOpenFiles": [
+    "04-code/16 Elliptic  — GCN, GAT, HAN Comparison.md",
     "04-code/all_models.ipynb",
     "04-code/14 Elliptic — Hierarchical Attention Network (HAN) Experiment.md",
-    "04-code/16 Elliptic  — GCN, GAT, HAN Comparison.md",
     "02-models/08 DGFraud-T2 algorithms overview.md",
     "02-models/06 Hierarchical Attention Network (HAN).md",
     "04-code/13 Elliptic — Graph Attention Network (GAT) Experiment.md",
